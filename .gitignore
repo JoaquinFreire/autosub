@@ -1,0 +1,9 @@
+.npm/
+.git/
+node_modules/
+tmp/
+BotSession/
+jadibot/
+*.log
+.env
+.env.*
